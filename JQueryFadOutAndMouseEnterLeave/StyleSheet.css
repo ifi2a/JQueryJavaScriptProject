@@ -1,0 +1,13 @@
+﻿div {
+
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+    font-size: 60px;
+    background-color: #69D2E7;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Sans-Serif;
+    opacity: 0.5;
+    text-align:center;
+}
